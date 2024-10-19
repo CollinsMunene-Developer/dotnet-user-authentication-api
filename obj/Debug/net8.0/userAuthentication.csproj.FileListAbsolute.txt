@@ -1,0 +1,8 @@
+C:\Users\COLLINS_DEV\Documents\userAuthentication\userAuthentication\obj\Debug\net8.0\userAuthentication.csproj.AssemblyReference.cache
+C:\Users\COLLINS_DEV\Documents\userAuthentication\userAuthentication\obj\Debug\net8.0\userAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COLLINS_DEV\Documents\userAuthentication\userAuthentication\obj\Debug\net8.0\userAuthentication.AssemblyInfoInputs.cache
+C:\Users\COLLINS_DEV\Documents\userAuthentication\userAuthentication\obj\Debug\net8.0\userAuthentication.AssemblyInfo.cs
+C:\Users\COLLINS_DEV\Documents\userAuthentication\userAuthentication\obj\Debug\net8.0\userAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\COLLINS_DEV\Documents\userAuthentication\userAuthentication\obj\Debug\net8.0\userAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\COLLINS_DEV\Documents\userAuthentication\userAuthentication\obj\Debug\net8.0\userAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\COLLINS_DEV\Documents\userAuthentication\userAuthentication\obj\Debug\net8.0\userAuthentication.sourcelink.json
